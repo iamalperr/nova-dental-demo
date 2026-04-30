@@ -1,0 +1,14 @@
+{
+  "name": "nova-dental-demo",
+  "version": "1.0.0",
+  "description": "Nova Dental Clinic — Standalone demo website powered by ClinicBridge AI",
+  "private": true,
+  "scripts": {
+    "dev": "vite --port 5500 --open",
+    "build": "vite build",
+    "preview": "vite preview --port 5500"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
